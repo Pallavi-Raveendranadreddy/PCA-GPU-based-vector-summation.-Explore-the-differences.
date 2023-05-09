@@ -22,9 +22,10 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
 
 6.Copy output data from the device to the host and verify the results against the host's sequential vector addition. Free memory on the host and the device.
 ## Program:
-
-Developed By: Chintha NagaJyothi
-Reg.No:212221230015
+```
+Developed By: VALASAREDDY PALLAVI
+Reg.No:212221240059
+```
 
 ## 1. Block.x=1023
 ```
